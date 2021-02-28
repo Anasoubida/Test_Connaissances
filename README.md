@@ -1,4 +1,4 @@
-# Test_Connaissances : Système de gestion d’emprunt dans une librairie
+# Test de Connaissances : Système de gestion d’emprunt dans une librairie
 
 L'objectif est de faire des manipulations sur des dataframe en utilisant SQL et DSL sur spark. 
 
