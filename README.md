@@ -8,14 +8,13 @@ On dispose des 5 tables (dataframe) suivantes :
 
 **book**    : représente une table de livres. Chaque ligne est un livre décrit par son identifiant, son titre et sa catégorie (roman, science-fiction, musique, etc.);
 
-+----+--------------------+-----------+
-| bid|               title|   category|
-+----+--------------------+-----------+
-|0001|Lexistentialisme ...|Philosophie|
-|0002|Huis clos. Suivi ...|Philosophie|
-|0003|Mignonne allons v...|      Poeme|
-|0004|          Les Amours|      Poème|
-+----+--------------------+-----------+
+
+| bid|               title              |   category|
+-----|----------------------------------|------------
+|0001|L'existentialisme est un humanisme|Philosophie|
+|0002|Huis clos. Suivi de Les Mouches   |Philosophie|
+|0003|Mignonne allons voir si la rose   |Poeme      |
+|0004|Les Amours                        |Poème      |
 
 **Authors** : représente une table d'auteurs. Chaque ligne contient le nom et l'identifiant d'un auteur;
 
