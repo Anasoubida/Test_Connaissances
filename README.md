@@ -2,7 +2,7 @@
 
 L'objectif est de faire des manipulations sur des dataframe en utilisant SQL et DSL sur spark. 
 
-## Apercu sur les tables : 
+## Aperçu sur les tables : 
 
 On dispose des 5 tables (dataframe) suivantes : 
 
